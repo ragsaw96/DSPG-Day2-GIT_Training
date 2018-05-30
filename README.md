@@ -8,3 +8,5 @@
 This is just a test to see whether editing the file gets saved
 - 'git' comment message 
 
+If we want o create a new branch to retain commites you create, you may do so by using -b with the chackout command
+eg) git checkout -b <new-branch-name>
