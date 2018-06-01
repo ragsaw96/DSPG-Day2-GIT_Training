@@ -5,4 +5,4 @@
 - Push Pull 
 
 #Exercise push at the same time
-- See something yet
+- What's up, man?
