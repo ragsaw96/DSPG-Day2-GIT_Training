@@ -19,3 +19,6 @@ eg) git checkout -b <new-branch-name>
 
 Hello, 
 Creating two repositories
+
+- AUTOMATIC merge happens and we get different file in different locations 
+
