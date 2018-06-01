@@ -21,4 +21,4 @@ Hello,
 Creating two repositories
 
 - AUTOMATIC merge happens and we get different file in different locations 
-
+- Ek aur line add kar dete hai 
